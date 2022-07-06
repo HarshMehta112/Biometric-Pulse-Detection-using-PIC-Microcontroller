@@ -1,0 +1,14 @@
+<BREAKS>
+  <BP>
+    <UnitName>PulseMeter.c</UnitName>
+    <Line>55</Line>
+    <Enabled>True</Enabled>
+    <Type>0</Type>
+  </BP>
+  <BP>
+    <UnitName>PulseMeter.c</UnitName>
+    <Line>47</Line>
+    <Enabled>True</Enabled>
+    <Type>0</Type>
+  </BP>
+</BREAKS>

@@ -1,0 +1,9 @@
+main
+	display
+		Div_8x8_U
+		mask
+		Mul_8x8_U
+		delay_refresh
+	delay_debounce
+	countpulse
+		delay_debounce
